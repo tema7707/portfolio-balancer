@@ -1,6 +1,8 @@
 # Portfolio Rebalancer
 
 [📽️ Demo 📽️](https://www.loom.com/share/233cd4b529da44cfa6241e0c150bea51?sid=630bb89e-6caf-41ba-bff6-9c9d509f2255) 
+[Market-Fetcher Agent](https://app.near.ai/agents/temazzz.near/market-fetcher/latest) 
+[Portfolio-Manager Agent]([https://www.loom.com/share/233cd4b529da44cfa6241e0c150bea51?sid=630bb89e-6caf-41ba-bff6-9c9d509f2255](https://app.near.ai/agents/temazzz.near/portfolio-manager/latest)) 
 
 ## Overview
 Portfolio Rebalancer is an AI-driven system designed to help cryptocurrency investors manage and optimize their portfolios. The system consists of two AI agents: `market-fetcher` and `portfolio-manager`, as well as an automated trading script, `auto-trader.py`. Together, they provide real-time market analysis, trading strategy recommendations, and automated portfolio rebalancing.
