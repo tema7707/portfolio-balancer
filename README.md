@@ -1,6 +1,6 @@
 # Portfolio Rebalancer
 
-[📽️ Demo 📽️](https://www.loom.com/share/233cd4b529da44cfa6241e0c150bea51?sid=26bd43ce-f576-4db9-b8f8-8bd93aa14b3e) 
+[📽️ Demo 📽️](https://www.loom.com/share/f2c27f3d823f4235b7bb310c6febeeca?sid=cdd61321-32a7-4a99-a0d3-9f65d2a69f57)
 
 [Market-Fetcher Agent](https://app.near.ai/agents/temazzz.near/market-fetcher/latest) 
 
